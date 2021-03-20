@@ -16,3 +16,38 @@ A CLI for Anghami, the first music streaming platform in the Arab world.
   - [Limitations](#limitations)
   - [Used Libraries](#libraries)
   - [Contributors](#contributors)
+
+## Installation
+
+```
+```
+
+## Usage
+
+```
+```
+
+## Current Features
+
+```
+```
+
+## Upcoming Features
+
+```
+```
+
+## Limitations
+
+```
+```
+
+## Used Libraries
+
+```
+```
+
+## Contributers
+
+```
+```
