@@ -20,7 +20,7 @@ A CLI for Anghami, the first music streaming platform in the Arab world.
 
 ## Description
 
-A CLI for **Anghami** platform. **Anghami** is the first legal <u>music streaming platform</u> and digital distribution company in the Arab world, providing unlimited Arabic and international music to stream and download for offline mode.
+A CLI for **Anghami** platform. **Anghami** is the first legal *music streaming platform* and digital distribution company in the Arab world, providing unlimited Arabic and international music to stream and download for offline mode.
 
 ## Installation
 
