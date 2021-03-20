@@ -52,7 +52,7 @@ A CLI for **Anghami** platform. **Anghami** is the first legal *music streaming 
 ```
 ```
 
-## Contributers
+## Contributors
 
 ```
 ```
